@@ -11,6 +11,7 @@ Navigation: Easy navigation between the home screen, cart, and wishlist screens.
 1.Used ListView.builder to efficiently display the list of products dynamically fetched from the API.
 2.Ensured that each product can be added either to the cart or wishlist based on user interaction.
 # App screenshot
+https://github.com/archanabi/shoppy_store/blob/a8f472e77a5b1603e1f9b8c83f8b7245cf78d493/ec9e9a7a-48d2-47ce-97d3-f58efe6839ee.jpg
 
 
 
